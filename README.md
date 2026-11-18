@@ -1,3 +1,5 @@
+![Panduan Memulai make.fun](assets/banner.svg)
+
 # Panduan Memulai make.fun — Dari Nol Sampai Entry Pertama
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
